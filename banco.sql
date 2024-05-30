@@ -1,4 +1,4 @@
-/*Criação de tabela módulo3 preparatório*/
+/*Criação de tabela*/
 USE [preparatorio]
 GO
 
